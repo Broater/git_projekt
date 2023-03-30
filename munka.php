@@ -6,8 +6,8 @@
 // Még több művelet
 // -----------------
 
-$a = 10;
-$b = 15;
+$a = 1050;
+$b = 1500;
 
 print $a + $b;
 
@@ -19,7 +19,7 @@ $y = 19;
 
 print "<br /><br />" . $x - $x;
 
-
+print "Konfi lesz";
 
 
 //Gál meleg
