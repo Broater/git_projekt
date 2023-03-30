@@ -20,4 +20,9 @@ $y = 19;
 print "<br /><br />" . $x - $x;
 
 
+
+
+//Gál meleg
+
+
 ?>
