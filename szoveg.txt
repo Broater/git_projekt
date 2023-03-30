@@ -1,8 +1,0 @@
-Az Ojemedve Sor
-
-git config --global user.email "nigga@nigga.nigga"
-git config --global user.name "Bigga Nigga"
-
-Szobanövény vagyok, egy Professzionálisan Elismert OKJ-s Gyökér
-HIHIHIHAHA
-Nem minden köpeny visel hőst
